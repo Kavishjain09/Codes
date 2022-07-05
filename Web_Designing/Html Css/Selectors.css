@@ -1,0 +1,29 @@
+/*id*/
+#name {
+	
+	font-style: italic;
+	background: yellow;
+
+}
+/*class*/
+.highlight {
+	border: 1px dashed red;
+
+}
+
+/*star*/
+* {
+	border: 1px solid black;
+}
+/*descendant*/
+li a {
+	color : orange;
+}
+/*adjacent*/
+a + h4 {
+	color :pink;
+}
+/*attribute selector*/
+a[href="http://www.google.com"] {
+	background: lightgreen;
+}

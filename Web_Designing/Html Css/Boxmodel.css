@@ -1,0 +1,12 @@
+p {
+	width: 180px;
+	border: 2px solid blue; 
+	/*padding means inside border spacing and margin for outside*/
+	padding-left: 20px;
+	/*margin:top right  bottom left;*/
+	/*margin:20px 10px 40px 200px;*/
+	/*margin:top&bottom right&left*/
+	/*here auto for equal in right and left */
+	margin:20px auto;
+	
+}

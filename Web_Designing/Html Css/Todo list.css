@@ -1,0 +1,26 @@
+li
+{
+	border: 2px solid orange;
+}
+
+
+h1
+{
+	color: rgb(0,25,200);
+	font-style: italic;
+}
+#special {
+	background: green;
+	text-decoration: line-through;
+
+}
+.highlight
+{
+	background: rgb(20,0,200);
+	
+}
+.completed
+{
+	background: rgb(75,150,0);
+
+}
