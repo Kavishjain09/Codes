@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1581874305 source:e:\fe c programming\bill amount\main.c
+	<stdio.h>
+	<stdlib.h>
+
